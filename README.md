@@ -1,6 +1,6 @@
 # ML2022-Drinking-Water-Quality
 Course project for Machine Learning course at University of Tartu, fall 2022
-Team: Ekaterina Sedykh, Dmytro Fedorenko, Glib Manaiev
+Team: Ekaterina Sedykh, Dmytro Fedorenko, Glib Manaiev.
 
 Goal: The aim of this competition is to create a model that predicts the water quality in Estonian water stations based on the government’s open data of the previous measurements.
 
